@@ -1,49 +1,69 @@
-# 👋 Xin chào! Tôi là Quanrenz
+<h1 align="center">⚡ Quanrenz ⚡</h1>
 
-🎓 Sinh viên đam mê lập trình và công nghệ, hiện đang học tập và phát triển kỹ năng trong các lĩnh vực như Python, JavaScript, và phát triển ứng dụng web.
-
----
-
-## 🧰 Kỹ năng & Công nghệ
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Quanrenz!;Developer+%7C+Coder+%7C+Tech+Lover;Welcome+to+my+GitHub+Profile!+👨‍💻" alt="Typing SVG" />
+</p>
 
 ---
 
-## 📂 Dự án nổi bật
+### 🧠 Giới thiệu ngắn gọn
 
-### 🔹 [Nhan_dang_bien_so_xe](https://github.com/Quanrenz/Nhan_dang_bien_so_xe)
-Hệ thống nhận dạng biển số xe sử dụng Python và OpenCV. Dự án này áp dụng kỹ thuật xử lý ảnh để phát hiện và nhận dạng biển số từ hình ảnh đầu vào.
-
-### 🔹 [TODOLIST_MP3](https://github.com/Quanrenz/TODOLIST_MP3)
-Ứng dụng quản lý công việc tích hợp chức năng phát nhạc MP3, phát triển bằng JavaScript. Giao diện thân thiện và dễ sử dụng giúp người dùng quản lý công việc hiệu quả.
-
-### 🔹 [QuanPh-CV](https://github.com/Quanrenz/QuanPh-CV)
-Trang web CV cá nhân được thiết kế bằng HTML và CSS, trình bày thông tin cá nhân, kỹ năng và dự án một cách chuyên nghiệp.
-
-### 🔹 [Find-Path-Maze](https://github.com/Quanrenz/Find-Path-Maze)
-Dự án fork từ [ThanhNgTHP/Find-Path-Maze](https://github.com/ThanhNgTHP/Find-Path-Maze), triển khai thuật toán tìm đường trong mê cung sử dụng C#.
+> 🛠️ Một lập trình viên trẻ, đam mê công nghệ, yêu thích AI, Automation và các project "điên rồ".
+>  
+> 📍 Mục tiêu: Không ngừng học hỏi – Không ngừng phát triển.
 
 ---
 
-## 📈 Thống kê GitHub
+### 🚀 Kỹ năng & Công nghệ
 
-![Quanrenz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Quanrenz&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Quanrenz&layout=compact&theme=radical)
+<div align="center">
+  
+| ⚒️ Tool | 🔥 Mức độ thành thạo |
+|--------|--------------------|
+| ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python&logoColor=yellow) | ⭐⭐⭐⭐ |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript) | ⭐⭐⭐ |
+| ![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js) | ⭐⭐ |
+| ![C#](https://img.shields.io/badge/-C%23-000?style=flat&logo=c-sharp&logoColor=purple) | ⭐⭐⭐ |
+| ![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat&logo=html5) | ⭐⭐⭐⭐ |
+| ![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat&logo=css3) | ⭐⭐⭐ |
+  
+</div>
 
 ---
 
-## 📫 Liên hệ
+### 📂 Dự án nổi bật
 
-- Email: [quanrenz@example.com](mailto:quanrenz@example.com)
-- LinkedIn: [linkedin.com/in/quanrenz](https://linkedin.com/in/quanrenz)
+🔥 **[Nhan_dang_bien_so_xe](https://github.com/Quanrenz/Nhan_dang_bien_so_xe)**  
+> Nhận diện biển số bằng Python + OpenCV, xử lý ảnh và phát hiện ký tự chính xác.
+
+🎧 **[TODOLIST_MP3](https://github.com/Quanrenz/TODOLIST_MP3)**  
+> App vừa quản lý công việc vừa nghe nhạc – Động lực code bất tận!
+
+🧭 **[Find-Path-Maze](https://github.com/Quanrenz/Find-Path-Maze)**  
+> Giải mê cung bằng thuật toán pathfinding. Tìm đường như AI dẫn lối 🧠
+
+🌐 **[QuanPh-CV](https://github.com/Quanrenz/QuanPh-CV)**  
+> CV cá nhân dạng website – đẹp, gọn, và chuyên nghiệp 💼
 
 ---
 
-Cảm ơn bạn đã ghé thăm hồ sơ của tôi! Hãy kết nối và cùng nhau phát triển! 🚀
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Quanrenz&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quanrenz&layout=compact&theme=tokyonight&hide_border=true" alt="Langs" />
+</p>
+
+---
+
+### 🌍 Kết nối với tôi
+
+- 💌 Email: [quanrenz@example.com](mailto:quanrenz@example.com)
+- 🧾 LinkedIn: [linkedin.com/in/quanrenz](https://linkedin.com/in/quanrenz)
+- 🧠 Fun fact: Tôi không debug – tôi chỉ nói chuyện với code của mình!
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Quanrenz&style=flat-square&color=blue" alt="Profile Views" />
+</p>
