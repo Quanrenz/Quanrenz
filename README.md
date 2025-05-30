@@ -1,8 +1,6 @@
 <h1 align="center">🚀 Quanrenz — Fullstack Learner, AI Explorer & Dev Enthusiast ⚡</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Quanrenz!;Fullstack+Dev+%7C+Automation+Lover+%7C+AI+Explorer;Let's+build+something+awesome+together!+👨‍💻" alt="Typing Intro" />
-</p>
+
 
 ---
 
