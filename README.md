@@ -1,14 +1,12 @@
-<h1 align="center">🚀 Quanrenz — Fullstack Learner, AI Explorer & Dev Enthusiast ⚡</h1>
-
-
+<h1 align="center">🚀 Quanrenz — Fullstack Learner | AI Explorer | Dev Enthusiast ⚡</h1>
 
 ---
 
-### 🧠 Vài dòng về tôi
+### 🧠 Giới thiệu nhanh
 
-> 💻 Một lập trình viên trẻ, luôn khao khát học hỏi.  
-> 🤖 Yêu thích mọi thứ liên quan đến **AI**, **Web**, và **tự động hóa**.  
-> 🎯 Mục tiêu: **Xây dựng sản phẩm có ý nghĩa, học nhanh, code sạch, không ngừng phát triển.**
+> 💻 Một lập trình viên trẻ, không ngừng học hỏi và cải thiện bản thân.  
+> 🤖 Đam mê **Trí tuệ nhân tạo**, **Lập trình Web** và **Tự động hóa**.  
+> 🎯 Mục tiêu: **Xây dựng sản phẩm hữu ích, phát triển nhanh chóng, giữ vững tư duy sạch và logic trong từng dòng code.**
 
 ---
 
@@ -39,27 +37,27 @@
 
 ---
 
-### 🔥 Dự án tiêu biểu
+### 🔥 Dự án nổi bật
 
 📸 **[Nhan_dang_bien_so_xe](https://github.com/Quanrenz/Nhan_dang_bien_so_xe)**  
-Nhận diện biển số xe bằng Python + OpenCV. Ứng dụng xử lý ảnh để phát hiện và trích xuất ký tự trên biển số.  
-`Python • OpenCV • Image Processing`
+Dự án nhận diện biển số xe sử dụng Python và OpenCV. Ứng dụng kỹ thuật xử lý ảnh để phát hiện và trích xuất ký tự.  
+`Python • OpenCV • Xử lý ảnh`
 
-🎧 **[TODOLIST_MP3](https://github.com/Quanrenz/TODOLIST_MP3)**  
-Ứng dụng quản lý công việc kết hợp nghe nhạc. Code là phải có nhạc thì mới thăng hoa 🎶  
-`JavaScript • HTML • LocalStorage`
+📝 **[TODOLIST_REACT](https://github.com/Quanrenz/TODOLIST_REACT)**  
+Ứng dụng quản lý công việc được xây dựng bằng React. Giao diện đơn giản, mượt mà và dễ sử dụng.  
+`React • JavaScript • LocalStorage`
 
 🧠 **[Find-Path-Maze](https://github.com/Quanrenz/Find-Path-Maze)**  
-Tìm đường trong mê cung bằng thuật toán. Dự án giúp hiểu sâu hơn về logic tìm kiếm đường đi.  
-`C# • Pathfinding Algorithm`
+Giải mê cung bằng thuật toán tìm đường. Dự án giúp làm chủ tư duy thuật toán một cách trực quan.  
+`C# • Thuật toán tìm đường`
 
 🧾 **[QuanPh-CV](https://github.com/Quanrenz/QuanPh-CV)**  
-CV cá nhân được thiết kế dưới dạng trang web tĩnh – gọn, đẹp, dễ nhìn, ấn tượng.  
-`HTML • CSS • Responsive Design`
+Trang CV cá nhân được thiết kế tinh gọn, đẹp mắt và phản hồi tốt trên nhiều thiết bị.  
+`HTML • CSS • Responsive`
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Thống kê GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Quanrenz&show_icons=true&theme=radical&hide_border=true" width="48%" />
@@ -68,14 +66,14 @@ CV cá nhân được thiết kế dưới dạng trang web tĩnh – gọn, đ�
 
 ---
 
-### 🌐 Kết nối với tôi
+### 🌐 Kết nối với mình
 
-- 📫 Email: [quanpham2082002@gmail.com](mailto:quanpham208002@gmail.com)
+- 📫 Email: [quanpham2082002@gmail.com](mailto:quanpham2082002@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/quanrenz](https://linkedin.com/in/quanrenz)
 - 💬 Quote yêu thích: _“Code không chỉ là kỹ thuật, mà là nghệ thuật tối giản hóa tư duy.”_
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Quanrenz&style=flat-square&color=green" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Quanrenz&style=flat-square&color=green" alt="Lượt xem hồ sơ" />
 </p>
