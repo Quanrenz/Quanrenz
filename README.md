@@ -70,7 +70,7 @@ CV cá nhân được thiết kế dưới dạng trang web tĩnh – gọn, đ�
 
 ### 🌐 Kết nối với tôi
 
-- 📫 Email: [quanrenz@example.com](mailto:quanrenz@example.com)
+- 📫 Email: [quanpham2082002@gmail.com](mailto:quanpham208002@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/quanrenz](https://linkedin.com/in/quanrenz)
 - 💬 Quote yêu thích: _“Code không chỉ là kỹ thuật, mà là nghệ thuật tối giản hóa tư duy.”_
 
