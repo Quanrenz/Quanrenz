@@ -60,8 +60,9 @@ Trang CV cá nhân được thiết kế tinh gọn, đẹp mắt và phản h�
 ### 📊 Thống kê GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Quanrenz&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quanrenz&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Quanrenz&theme=radical" width="95%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Quanrenz&theme=radical&utcOffset=7" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Quanrenz&theme=radical" width="48%" />
 </p>
 
 ---
