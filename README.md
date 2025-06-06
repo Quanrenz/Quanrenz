@@ -7,7 +7,7 @@
 ---
 
 ### 🧠 Giới thiệu nhanh
-- 👨‍💻 Tên thật: **Phạm Quốc Quân**
+- 👨‍💻 Tên thật: **Phạm Hồng Quân**
 - 🎓 Sinh viên IT, đam mê AI & Web
 - 🎯 Mục tiêu: Code sạch – Sản phẩm xịn – Tư duy gọn
 
